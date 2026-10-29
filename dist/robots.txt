@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://volt-tech-ua.chalkythyme3.chatgpt.site/sitemap.xml
